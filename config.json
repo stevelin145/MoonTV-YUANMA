@@ -104,7 +104,7 @@
 	  "api": "https://www.hongniuzy2.com/api.php/provide/vod",
 	  "name": "红牛资源",
 	  "detail": "https://www.hongniuzy2.com"
-	} ,
+	},
     "AV5": {
       "api": "https://91md.me/api.php/provide/vod/",
       "name": "AV-91麻豆",
@@ -197,8 +197,7 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    "cache_time": 9200,
-    "api_site": {
+		},
         "api_1": {
             "name": "TV-1080资源",
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
